@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Goorob-401-advanced-javascript/Props-and-State/static/js/main.7456152e.chunk.js",
+    "main.js.map": "/Goorob-401-advanced-javascript/Props-and-State/static/js/main.7456152e.chunk.js.map",
+    "runtime-main.js": "/Goorob-401-advanced-javascript/Props-and-State/static/js/runtime-main.9ad736b1.js",
+    "runtime-main.js.map": "/Goorob-401-advanced-javascript/Props-and-State/static/js/runtime-main.9ad736b1.js.map",
+    "static/js/2.b1b8262f.chunk.js": "/Goorob-401-advanced-javascript/Props-and-State/static/js/2.b1b8262f.chunk.js",
+    "static/js/2.b1b8262f.chunk.js.map": "/Goorob-401-advanced-javascript/Props-and-State/static/js/2.b1b8262f.chunk.js.map",
+    "index.html": "/Goorob-401-advanced-javascript/Props-and-State/index.html",
+    "precache-manifest.8319bf7910cd7785b878126020ff7c26.js": "/Goorob-401-advanced-javascript/Props-and-State/precache-manifest.8319bf7910cd7785b878126020ff7c26.js",
+    "service-worker.js": "/Goorob-401-advanced-javascript/Props-and-State/service-worker.js",
+    "static/js/2.b1b8262f.chunk.js.LICENSE.txt": "/Goorob-401-advanced-javascript/Props-and-State/static/js/2.b1b8262f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ad736b1.js",
+    "static/js/2.b1b8262f.chunk.js",
+    "static/js/main.7456152e.chunk.js"
+  ]
+}
