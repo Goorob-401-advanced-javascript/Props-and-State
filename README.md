@@ -5,6 +5,8 @@
 ### Links and Resources
 
 - [submission PR]()
+### github deployment :
+[github](https://goorob-401-advanced-javascript.github.io/Props-and-State/)
 
 ### Setup
 
